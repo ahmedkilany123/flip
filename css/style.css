@@ -59,7 +59,7 @@
     -webkit-backface-visibility: hidden;
 }
 .front {
-    background: url(/img/ahmed.jpg);
+    background: url(../img/ahmed.jpg);
     background-size: cover;
     background-position: center;
     padding: 60px 40px;
